@@ -1,3 +1,3 @@
 import React, {Component} from 'react';
 
-export default <span>Home</span>;
+export default () => <span>Home</span>;

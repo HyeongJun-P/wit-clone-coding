@@ -1,3 +1,3 @@
 import React, {Component} from 'react';
 
-export default <span>Auth</span>;
+export default () => <span>Auth</span>;
